@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marketing</title>
+    <style>
+        /* Ovdje možete definirati stilove za navigacijsku traku, slike i tablicu */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+        }
+        nav {
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #fff;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body style="background-color:#cd853f">
+>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#pozadina">Pozadina</a></li>
+                <li><a href="#Tokrevolucije">Tok revolucije</a></li>
+                <li><a href="#Ostaledržavekojesuučestvovaleurevoluciji">Ostale države koje su učestovale u revoluciji</a></li>
+               
+            </ul>
+        </nav>
+    </header>
+    <div class="content">
+        <h1>Revolucija 1848. - 1849.</h1>
+        <div class="content"><h2 id="pozadina">Pozadina</h2>
+        
+       <p> Prva revolucija započela je u januaru 1848. u Palermu na Siciliji, a u januaru iste godine izbila je revolucija u Parizu. Nositelji ove revolucije u pojedinim europskim zemljama nisu uvijek pripadali jednom društvenom sloju, nego su bili pripadnici svih društvenih slojeva: građani, sitni obrtnici i trgovci, nezaposleni radnici i seljaci, čak i plemići, pa su i revolucionarni zahtjevi ovisili o pripadnosti pojedinoj skupini i stoga sadržavali i socijalističke i protukapitalističke i protufeudalne elemente. Jedan od neposrednih preduvjeta izbijanju revolucije Europe bila je agrarna kriza u razdoblju od 1845. do 1847. te nestabilni gospodarski sustavi u razvijenim europskim državama koji su vodili do financijskih kriza i bankrota. Značajan čimbenik u revolucionarnim kretanjima 1848. – 1849. bili su i snažni nacionalni pokreti i zahtjevi, koji su se počeli razvijati od početka 19. stoljeća u pojedinim višenacionalnim europskim zemljama.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Europe_1848_map_en.png/600px-Europe_1848_map_en.png" alt="Slika 1">
+        <p>Središta revolucije u Europi</p>
+        
+        <h2 id="Tokrevolucije" style="text-align:center;">Tok revolucije</h2>
+        <h4> Francuska </h4>
+        <p>U Francuskoj su društvene napetosti započele 1847. kada je vlada Françoisa Guizota odbila zahtjeve za proširenjem prava glasa, a vrhunac su dostigle 22. januara 1848. nakon što je ponovno odbijen isti zahtjev. Tada su radikalniji dijelovi pariškog pučanstva započeli s podizanjem barikada i uličnim sukobima s policijom. Dana 23. veljače Guizotova je vlada podnijela ostavku, ali su 24. veljače ulični sukobi još više ojačali pa je kralj Luj Filip istog dana abdicirao. Već sljedeći dan proglašena je Druga Republika i uvedeno opće biračko pravo.
+       </p>
+            
+        <h4> Njemačka</h4>
+        <p>Nakon Napoleonovog poraza, nastao je Njemački savez, koji je okupljao 38 njemačkih država, koje su se nalazile na prostoru na kojem je prije Napoleona postojalo 380 državica. Austrijsko Carstvo i Prusko Kraljevstvo borili su se za prevlast nad njemačkim državicama.
+
+U Berlinu se revolucija proširila iz Rajnske oblasti, a započela je sukobima između radništva, studenata i građanstva s kraljevom vojskom u Berlinu, 18. ožujka 1848. Liberalnim snagama su se pridružili svi društveni slojevi osim feudalaca. Prisilili su vladara da sastavi liberalnu vladu, izda ustav i objavi parlamentarne izbore. Kralj Fridrik III. bio je prisiljen imenovati novu liberalnu vladu i obećati nov ustav. Liberali su preuzeli vlast, ali nisu se zauzimali za siromašne pa su se javile pobune najsiromašnijih. Vladar je jedini kontrolirao vojsku i liberali su postali ovisni o njemu. Vladar je prvo priskočio u pomoć liberalima, a onda je iskoristio zapovjedništvo nad vojskom da se riješi liberala i da vrati stari poredak u Pruskoj.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ereignisblatt_aus_den_revolution%C3%A4ren_M%C3%A4rztagen_18.-19._M%C3%A4rz_1848_mit_einer_Barrikadenszene_aus_der_Breiten_Strasse%2C_Berlin_01.jpg/330px-Ereignisblatt_aus_den_revolution%C3%A4ren_M%C3%A4rztagen_18.-19._M%C3%A4rz_1848_mit_einer_Barrikadenszene_aus_der_Breiten_Strasse%2C_Berlin_01.jpg" alt="Slika 2" width="700" height="350">
+        <p> Revolucionari u Berlinu </p>
+        <h4> Italija </h4>
+        <p> U sjevernoj Italiji, Lombardijom i Venecijskim vojvodstvom vladali su Habsburgovci, središnji dio Italije zauzimala je Papinska Država, a južna Italija i otok Sicilija činili su Napuljsko Kraljevstvo, kojim je vlada ogranak Burbonaca. Jedina državica u kojoj je postojala domaća dinastija bio je Pijemont ili Kraljevina Sardinija, gdje je vladala savojska dinastija.
+
+Ustanak je izbio na Siciliji, a revolucija se polako proširila prema sjeveru. Građanstvo je uspjelo doći na vlast i proglasiti republiku. Papa je ujesen 1848. godine prognan iz Rima i Rim je proglašen republikom. Radikalizacija revolucije 1848. dovela je do papina poziva Francuskoj, Španjolskoj, Napulju i Habsburškoj Monarhiji da povedu vojnu intervenciju. Prije nego što su Talijani uspjeli dići ustanak protiv Habsburgovaca u Veneciji i Lombardiji, Habsburgovci su poslali vojsku u sjevernu Italiju. U pomoć su joj došle i francuska i španjolska vojska. Papa je vraćen u Rim, a francuska vojska je ostala čuvati papu, 1849. francuske postrojbe ušle su u Rim. Posljednje uporište revolucije u Italiji, Venecija. </p>
+ <img src="https://www.skuola.net/news_foto/2018/1848-europa.jpg" alt="Slika 3" width="700" height="350">
+ <p> Italija 1848.-1849.
+        
+        <table> <h4 id=Ostaledržavekojesuučestvovaleurevoluciji> Ostale države koje su učestovale u revoluciji
+            <tr>
+                <th>Države</th>
+                <th>Uspjeh</th>
+            </tr>
+            <tr>
+                <td>Habsburška Monarhija</td>
+                <td>neuspješna</td>
+            </tr>
+            <tr>
+                <td>Mađarska</td>
+                <td>neuspješna</td>
+            </tr>
+            <tr>
+                <td>Hrvatska</td>
+                <td>neuspješna</td>
+            </tr>
+        </table>
+    </div>
+   Lamija Korjenić 
+
+</body>
+</html>
